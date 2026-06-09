@@ -1,7 +1,5 @@
 # git course
-this is a complete course.
+This is a complete git course
 
-# git new
-this is new model
+# This is from Bug branch
 
-#This is from Bug branch
